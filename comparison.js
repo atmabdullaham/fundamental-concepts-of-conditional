@@ -11,3 +11,17 @@
  * 7. and: &&
  * 8. or: ||
  */
+
+// console.log(5 > 10);
+// console.log(10 == 10);
+// console.log(10 <= 10);
+// console.log(10 >= 10);
+
+var goavePrice = 40;
+var applePrice = 400;
+// console.log(goavaPrice > applePrice);
+
+
+console.log(10 == 10);
+console.log(10 == '10');
+console.log(10 === '10');
